@@ -94,4 +94,5 @@ docker run -p 8501:8501 joojak0616/mnist-streamlit:latest
 *   **Docker Containerization**: 개발 환경과 배포 환경의 일관성을 유지하기 위해 Docker를 도입하고, 실제로 이미지를 빌드하여 Docker Hub에 배포하는 전체 CI/CD 파이프라인의 기초를 다졌습니다.
 
 ---
-**Author**: 주재홍 (Team 4)
+Developed by flyingjoojak
+
